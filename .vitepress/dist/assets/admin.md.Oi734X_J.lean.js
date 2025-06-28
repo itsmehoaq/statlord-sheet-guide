@@ -1,0 +1,1 @@
+import{_ as a,c as t,o as i,ae as l}from"./chunks/framework.Dgg8-8ov.js";const c=JSON.parse('{"title":"Admin Sheet","description":"","frontmatter":{},"headers":[],"relativePath":"admin.md","filePath":"admin.md"}'),n={name:"admin.md"};function o(r,e,s,d,m,h){return i(),t("div",null,e[0]||(e[0]=[l("",49)]))}const g=a(n,[["render",o]]);export{c as __pageData,g as default};

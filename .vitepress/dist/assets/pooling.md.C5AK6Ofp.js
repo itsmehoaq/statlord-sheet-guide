@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as t}from"./chunks/framework.Dgg8-8ov.js";const d=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"pooling.md","filePath":"pooling.md"}'),a={name:"pooling.md"};function n(r,s,c,p,i,l){return t(),o("div")}const m=e(a,[["render",n]]);export{d as __pageData,m as default};
